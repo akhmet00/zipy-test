@@ -1,12 +1,9 @@
-import com.fasterxml.jackson.core.type.TypeReference;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import org.json.JSONObject;
+import fileWriter.FileWriter;
+import fileWriter.FileWriterImpl;
+import model.Result;
+import requestResult.RequestResult;
+import requestResult.RequestResultImpl;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
-import java.net.URL;
-import java.util.ArrayList;
 import java.util.List;
 
 public class ZipyApplication {

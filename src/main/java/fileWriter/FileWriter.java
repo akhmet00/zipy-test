@@ -1,3 +1,7 @@
+package fileWriter;
+
+import model.Result;
+
 import java.util.List;
 
 public interface FileWriter {

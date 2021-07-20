@@ -36,7 +36,7 @@ mvn clean package
 java -jar zipy-1.0-SNAPSHOT.jar
 ```
 
-####Result (CSV and XLSX) files will be generated at /resources
+####model.Result (CSV and XLSX) files will be generated at /resources
 
 
 ## NOTE! 

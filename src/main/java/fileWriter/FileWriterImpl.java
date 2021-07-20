@@ -1,4 +1,7 @@
+package fileWriter;
+
 import com.aspose.cells.SaveFormat;
+import model.Result;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.CellStyle;
 import org.apache.poi.ss.usermodel.Font;

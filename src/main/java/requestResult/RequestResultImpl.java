@@ -1,5 +1,8 @@
+package requestResult;
+
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import model.Result;
 import org.json.JSONObject;
 
 import java.io.BufferedReader;

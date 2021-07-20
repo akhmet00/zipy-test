@@ -21,7 +21,7 @@ To solve the task i've used those libraries:
 
 
 
-#### Result (CSV and XLSX) files will be generated at /resources
+#### model.Result (CSV and XLSX) files will be generated at /resources
 
 
 ## NOTE! 
