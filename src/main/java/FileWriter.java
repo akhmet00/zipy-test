@@ -66,7 +66,7 @@ public class FileWriter {
         }
 
 
-        String filePath = "src/main/resources/";
+        String filePath = "/";
         String fileName = "Excel.xlsx";
         FileOutputStream fileOut = new FileOutputStream(filePath + fileName);
         workbook.write(fileOut);
