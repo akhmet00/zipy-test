@@ -3,14 +3,15 @@ import lombok.Data;
 
 @Data
 public class Result {
-    public long productId;
-    public int sellerId;
+
+    public Long productId;
+    public Integer sellerId;
     public String oriMinPrice;
     public String oriMaxPrice;
-    public int promotionId;
-    public int startTime;
-    public int endTime;
-    public int phase;
+    public Integer promotionId;
+    public Integer startTime;
+    public Integer endTime;
+    public Integer phase;
     public String productTitle;
     public String minPrice;
     public String maxPrice;
@@ -23,5 +24,6 @@ public class Result {
     public String totalTranpro3;
     public String productPositiveRate;
     public String productAverageStar;
-    public int itemEvalTotalNum;
+    public Integer itemEvalTotalNum;
+
 }
