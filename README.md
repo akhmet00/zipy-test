@@ -3,7 +3,6 @@
 ### Table of contents
 - [About](#about)
 - [Libraries](#project-libraries)
-- [Build and execution](#build-and-execution)
 
 ### About
 
@@ -21,20 +20,6 @@ To solve the task i've used those libraries:
 5. [Aspose](https://ru.products.aspose.com/cells/net)
 
 
-### Build and execution
-
-#### 1'st step
-```
-
-mvn clean package
-
-```
-
-#### 2'nd step
-
-```
-java -jar zipy-1.0-SNAPSHOT.jar
-```
 
 #### Result (CSV and XLSX) files will be generated at /resources
 
